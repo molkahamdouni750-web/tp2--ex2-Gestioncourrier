@@ -9,8 +9,8 @@ diagramme:
               ┌──────────────────────────┐
               │        Courrier          │
               ├──────────────────────────┤
-              │ # modeExpedition:boolean  │
-              │ # adresse:String          │
+              │  modeExpedition:boolean  │
+              │  adresse:String          │
               │ + TARIF_BASE:double       │
               ├──────────────────────────┤
               │ + Courrier(...)           │
