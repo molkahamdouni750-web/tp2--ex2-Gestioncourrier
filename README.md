@@ -4,7 +4,7 @@ exercice 2-Gestion des courrier
 
 nom prénom : molka hamdouni
 
-diagramme:
+diagramme uml:
 
               ┌──────────────────────────┐
               │        Courrier          │
